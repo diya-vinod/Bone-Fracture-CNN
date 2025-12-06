@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+Bone_Fracture_Binary_Classification/
+*.csv
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+my_model.keras
+

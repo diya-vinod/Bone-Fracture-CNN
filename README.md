@@ -1,0 +1,2 @@
+This project explores the use of a Convolutional Neural Network (CNN) to detect bone fractures from X-ray images. The dataset comes from this Kaggle dataset: https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data/data.
+The workflow includes data preprocessing and augmentation, CNN model development and training, and performance evaluation using accuracy, loss, confusion matrices, and classification metrics. The model demonstrates strong performance on the test dataset and does well in predicting the presence of fractures in X-ray images.
